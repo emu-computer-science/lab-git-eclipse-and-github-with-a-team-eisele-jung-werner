@@ -7,5 +7,7 @@ public class Driver {
 		Happy.speak();
 		Fun.Funny();
 		Fun.Fun_B();
+		Happy.yell();
+		
 	}
 }
