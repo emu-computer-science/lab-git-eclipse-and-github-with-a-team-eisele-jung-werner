@@ -6,5 +6,6 @@ public class Driver {
 		Hungry.hungry();
 		Happy.speak();
 		Fun.Funny();
+		Fun.Fun_B();
 	}
 }
